@@ -5,11 +5,11 @@ body{
 .img{  
   display: inline-block;
   box-sizing: border-box;
-  width: 200px;
+  width: 23%;
   height: 150px;
   padding: 3px;
   border: solid 1px rgb(141, 137, 137);
-  /* margin: 3px; */
+  margin: 1%;
   background-color: white;
   object-fit: cover;
 }
